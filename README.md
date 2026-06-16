@@ -18,3 +18,7 @@
 - 创建 GitHub 仓库
 - 编辑 README
 - 提交第一次 commit
+## 分支练习
+
+我现在正在 readme-edits 分支里修改 README。
+这次修改之后，我会创建 Pull Request，把它合并回 main。
